@@ -1,1 +1,3 @@
 # 2022-dotnet-liverpool
+
+Elastically scale .NET caching to meet your real-world needs. When scaling and speed are important, Hazelcast IMDG is an excellent solution. To store frequently read data in your .NET process, use the Hazelcast Near Cache feature. This results in faster read speeds than traditional caches like Redis or Memcached. The concept of Eventual Consistency is also supported. The Hazelcast IMDG .NET Client provides access to all Hazelcast data structures, as well as distributed queues, topics, and other features. For enterprise-level security, it includes SSL support and Mutual Authentication. JSON or serialised objects are supported too.
